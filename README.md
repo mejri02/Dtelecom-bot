@@ -27,7 +27,7 @@
 
 ## ✨ Features
 
-- ✅ **Automatic Daily Check-in** - Earn +5 points every day
+- ✅ **Automatic Daily Check-in** 
 - 🔐 **Secure Authentication** - SIP99 Solana wallet signing
 - ⏰ **Smart Scheduling** - Checks reset time from API, waits until midnight UTC
 - 📊 **Live Countdown Timer** - Real-time countdown to next check-in
