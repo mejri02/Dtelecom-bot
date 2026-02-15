@@ -112,7 +112,7 @@ https://proxy.example.com:3128
 ### Run the Bot
 
 ```bash
-python dtelecom_bot.py
+python3 bot.py
 ```
 
 ### First Run Behavior
