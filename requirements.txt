@@ -1,3 +1,6 @@
-aiohttp>=3.9.0
-PyNaCl>=1.5.0
-base58>=2.1.1
+aiohttp
+nacl
+base58
+certifi
+brotli
+brotli-asgi
